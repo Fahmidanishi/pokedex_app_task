@@ -1,4 +1,5 @@
 name: pokedex_app
+
 description: A simple Pokédex Flutter app (BLoC + API)
 publish_to: "none"
 
